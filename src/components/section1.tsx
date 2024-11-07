@@ -13,7 +13,7 @@ const section1 = () => {
         <button className="sec-div-b2">LIVE DEMO</button>
       </div>
     </div>
-    <Image src="/pic11.avif" alt=" pic1" width={600} height={250} className="sec-div2-img1" />
+    <Image src="/pic11.jpg" alt=" pic1" width={600} height={250} className="sec-div2-img1" />
   </section>
   )
 }
